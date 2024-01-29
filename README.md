@@ -56,6 +56,7 @@
         }
 
         img {
+        https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2Ff%2Ff0%2FUniversity_of_Memphis_seal.svg%2F800px-University_of_Memphis_seal.svg.png&tbnid=RWwNIZyjFj_D0M&vet=12ahUKEwiz0rfa7IGEAxXXuokEHdvaAy8QMygBegQIARBR..i&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FUniversity_of_Memphis&docid=HWsvekYawO215M&w=800&h=1146&q=university%20of%20memphis&ved=2ahUKEwiz0rfa7IGEAxXXuokEHdvaAy8QMygBegQIARBR
             border-radius: 50%;
             max-width: 100px;
         }
